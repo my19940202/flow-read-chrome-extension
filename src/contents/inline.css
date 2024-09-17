@@ -1,0 +1,13 @@
+.hover-effect {
+    /* border: 2px solid red;*/
+    background-color: rgba(221, 221, 221, 0.5);
+    cursor: pointer;
+}
+
+::highlight(demo-highlight) {
+    text-decoration: underline;
+}
+
+::highlight(black-highlight) {
+    color: black;
+}
